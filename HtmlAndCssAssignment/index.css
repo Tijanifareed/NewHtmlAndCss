@@ -1,0 +1,170 @@
+/*.semicolon{*/
+/*    height: 20px;*/
+/*    width: 20px;*/
+/*}*/
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.semi_main{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.mother_div{
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+}
+
+.main_div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+
+.example{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+}
+
+
+
+.button{
+    background-color: white;
+    color: red;
+    padding: 9px;
+    border-radius: 7px;
+    font-size: 18px;
+    border-color: red;
+}
+
+.hero{
+    display: flex;
+    flex-direction: row;
+    padding-top: 70px;
+    gap: 60px;
+}
+
+
+.paragraph{
+    font-size: xxx-large;
+    font-weight: bold;
+    color:darkslategrey;
+    margin-bottom: 0;
+
+}
+.paragraph2{
+    margin-top: 0;
+}
+
+.hero-section{
+    display: flex;
+    gap: 15px;
+}
+
+
+
+.individualButton{
+    width: 125px;
+    height: 40px;
+    border-radius: 7px;
+    color: white;
+    background-color: red;
+    border:none;
+    font-size: 17px;
+}
+.businessButton{
+    width: 125px;
+    height: 40px;
+    border-radius: 7px;
+    color: red;
+    background-color: white;
+    font-size: 17px;
+    border-color: red;
+    /*display: flex;*/
+}
+
+
+.gif{
+    width: 600px;
+    height: 500px;
+    margin-top: -70px;
+}
+
+
+.WhatWeDo{
+    font-size: xx-large;
+    color: rgb(59,81,109);
+}
+
+.sup-div{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    color: white;
+    font-size: 20px;
+
+}
+
+.support{
+    width: 540px;
+   height: 250px;
+    background-color: red;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    /*margin-left: 50px;*/
+
+
+}
+
+
+
+
+.box{
+    border-color: white;
+    width: 50px;
+    height: 50px;
+}
+.wedo{
+    padding-left: 20px;
+}
+.tr{
+    padding-left: 10px;
+    font-size: large;
+}
+.enu{
+   margin-bottom: 1000px;
+}
+
+.learn{
+    padding-left: 420px;
+}
+
+.smallenum{
+    padding-left: 300px;
+}
+
+.learnButton{
+    margin-left: 500px;
+    color: white;
+    background-color: deepskyblue;
+    border: none;
+    border-radius: 7px;
+    width: 155px;
+    height:45px
+}
+.GlobalText{
+    margin-left: 380px;
+}

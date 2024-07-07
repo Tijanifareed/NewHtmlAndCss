@@ -1,0 +1,15 @@
+.love{
+    color: red; /*to change colour of text*/
+}
+.register{
+    background-color: black;/*to change the colour of the button*/
+    border : none; /*to remove the border lines*/
+    color: white;/*to change the text colour*/
+    padding: 9px; /*for spacing in button*/
+    border-radius: 5px;
+}
+.image{
+    display: flex;
+    align-items: center;
+    /*width: 100px;*/
+}
