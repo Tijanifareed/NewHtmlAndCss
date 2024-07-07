@@ -36,6 +36,7 @@
     justify-content: space-between;
     align-items: center;
     gap: 30px;
+    font-size: 12px;
 }
 
 
@@ -45,7 +46,7 @@
     color: red;
     padding: 9px;
     border-radius: 7px;
-    font-size: 18px;
+    font-size: 15px;
     border-color: red;
 }
 
@@ -167,4 +168,11 @@
 }
 .GlobalText{
     margin-left: 380px;
+}
+
+.brands{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
 }
