@@ -1,0 +1,84 @@
+.header{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    gap: 15rem;
+}
+
+.nav-bar{
+    display: flex;
+    gap: 1rem;
+    font-family: "Inter", sans-serif;
+    font-weight: lighter;
+    align-items: center;
+}
+
+.services{
+    /*margin-left: 5rem;*/
+    font-weight: lighter;
+
+}
+.donate{
+    /*margin-left: 5rem;*/
+    font-weight: lighter;
+}
+
+.whatWeDo{
+    font-weight: lighter;
+}
+
+.JoinUs{
+    font-weight: lighter;
+}
+
+.contact{
+    font-weight: lighter;
+}
+
+.blog{
+
+    font-weight: lighter;
+}
+
+.button{
+    margin-left: 150px;
+    padding: 8px 26px;
+}
+.WeHelp{
+    margin-top: 5rem;
+    font-family: Inter, sans-serif;
+    margin-left: 2rem;
+}
+
+.groupImage{
+    margin-left: 900px;
+    margin-top: -150px;
+}
+
+.helpOther{
+    margin-left: 2rem;
+}
+
+.starting{
+    margin-left: 2rem;
+    height: 35px;
+    width: 90px;
+    border: none;
+    background-color: #2995E2;
+    solid-color: black;
+}
+.story{
+    border: none;
+    background-color: white;
+}
+
+.play {
+    margin-top: 2px
+}r
+
+.firstButtons{
+    display: flex;
+    gap: 40PX;
+}
